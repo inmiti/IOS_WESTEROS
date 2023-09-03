@@ -56,6 +56,9 @@
 		1FD58F842AA4EDBB009C44B6 /* Westeros2 */ = {
 			isa = PBXGroup;
 			children = (
+				1FD58F9B2AA4EE0E009C44B6 /* Model */,
+				1FD58F9A2AA4EE02009C44B6 /* Controler */,
+				1FD58F992AA4EDEA009C44B6 /* View */,
 				1FD58F852AA4EDBB009C44B6 /* AppDelegate.swift */,
 				1FD58F872AA4EDBB009C44B6 /* SceneDelegate.swift */,
 				1FD58F892AA4EDBB009C44B6 /* ViewController.swift */,
@@ -65,6 +68,27 @@
 				1FD58F932AA4EDBC009C44B6 /* Info.plist */,
 			);
 			path = Westeros2;
+			sourceTree = "<group>";
+		};
+		1FD58F992AA4EDEA009C44B6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		1FD58F9A2AA4EE02009C44B6 /* Controler */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controler;
+			sourceTree = "<group>";
+		};
+		1FD58F9B2AA4EE0E009C44B6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
